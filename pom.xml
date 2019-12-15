@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>Sowji</id>
-			<url>http://localhost:8081/nexus/content/repositories/Sowji/
+			<id>svist</id>
+			<url>http://localhost:8081/nexus/content/repositories/svist/
 		</repository>
 		<snapshotRepository>
-			<id>Sowjis</id>
-			<url>http://localhost:8081/nexus/content/repositories/Sowjis/
+			<id>artech</id>
+			<url>http://localhost:8081/nexus/content/repositories/artech/
 		</snapshotRepository>		
   </distributionManagement>
 </project>
